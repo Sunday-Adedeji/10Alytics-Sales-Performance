@@ -36,11 +36,11 @@ Payment Option
 ## Tools Used
 | Tool | Purpose |
 |----------------|-------------------------|
-| Microsoft Excel | | Data cleaning, pivot tables, dashboarding |
-| Pivot Tables |	| Aggregations & multi-dimensional insights |
-| Pivot Charts |	| Visual analytics |
-| Excel Slicers |	| Interactive filtering |
-| Excel Table Format |	| Structured data modelling |
+| Microsoft Excel | Data cleaning, pivot tables, dashboarding |
+| Pivot Tables | Aggregations & multi-dimensional insights |
+| Pivot Charts |	Visual analytics |
+| Excel Slicers |	Interactive filtering |
+| Excel Table Format | Structured data modelling |
 
 
 ## 🧹 Data Cleaning & Preparation
@@ -57,7 +57,7 @@ Payment Option
 
 📎 Part of the Raw and cleaned dataset screenshots are included below (I only took the picture of the initial display).
 
-# Raw Dataset <img width="1578" height="690" alt="image" src="https://github.com/user-attachments/assets/df71f55c-665c-4071-92e7-e9d8c751a324" />
+**Raw Dataset** <img width="1578" height="690" alt="image" src="https://github.com/user-attachments/assets/df71f55c-665c-4071-92e7-e9d8c751a324" />
 
 ![Cleaned Dataset]<img width="1878" height="757" alt="image" src="https://github.com/user-attachments/assets/d13ef5c3-1fe3-4e49-ac71-61a34f3d08ff" />
 
