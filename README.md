@@ -35,15 +35,11 @@ Payment Option
 
 ## Tools Used
 | Tool | Purpose |
-|-------------|-------------------------|
-| Microsoft Excel | | Data cleaning, pivot tables, dashboarding|
-
-| Pivot Tables |	| Aggregations & multi-dimensional insights|
-
+|----------------|-------------------------|
+| Microsoft Excel | | Data cleaning, pivot tables, dashboarding |
+| Pivot Tables |	| Aggregations & multi-dimensional insights |
 | Pivot Charts |	| Visual analytics |
-
 | Excel Slicers |	| Interactive filtering |
-
 | Excel Table Format |	| Structured data modelling |
 
 
