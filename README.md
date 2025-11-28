@@ -59,9 +59,9 @@ Payment Option
 
 **Raw Dataset** <img width="1578" height="690" alt="image" src="https://github.com/user-attachments/assets/df71f55c-665c-4071-92e7-e9d8c751a324" />
 
-![Cleaned Dataset]<img width="1878" height="757" alt="image" src="https://github.com/user-attachments/assets/d13ef5c3-1fe3-4e49-ac71-61a34f3d08ff" />
+**Cleaned Dataset** <img width="1878" height="757" alt="image" src="https://github.com/user-attachments/assets/d13ef5c3-1fe3-4e49-ac71-61a34f3d08ff" />
 
-![Pivot Tables]<img width="1280" height="448" alt="image" src="https://github.com/user-attachments/assets/ba93036c-223e-4e2d-bb18-500864e7c07a" />
+**Pivot Tables** <img width="1280" height="448" alt="image" src="https://github.com/user-attachments/assets/ba93036c-223e-4e2d-bb18-500864e7c07a" />
 
 
 
@@ -81,13 +81,12 @@ Payment Option
 * Salesperson Performance
 * Slicer Filters (Sales Person, Payment Option, Age Group)
 
-## Main Dashboard <img width="1280" height="446" alt="image" src="https://github.com/user-attachments/assets/d67e60c7-07c6-4505-90a4-91ebd607cc7b" />
+**Main Dashboard** <img width="1280" height="446" alt="image" src="https://github.com/user-attachments/assets/d67e60c7-07c6-4505-90a4-91ebd607cc7b" />
 
 
 ## 🔍 Key Insights
 1️. Profit Trend
-
-📌 Profit surges sharply entering January 2016, peaks around April–May, then dips slightly mid-year.
+Profit surges sharply entering January 2016, peaks around April–May, then dips slightly mid-year.
 This pattern indicates seasonal buying power—likely aligned to holiday periods, restocking cycles, or consumer financing patterns.
 
 2️. Product Category Analysis
@@ -115,24 +114,24 @@ Chinazam, Remota and Feyisola
 Top reps either manage premium customers or excel in high-margin product sales.
 Sales process analysis can help replicate their methods across the team.    
 
-/filtered-views/salesperson/ with some insights
+## Filtered views of sales persons with some insights:
 
-![Chinazam Dashboard]<img width="1280" height="446" alt="image" src="https://github.com/user-attachments/assets/ecf2611d-b512-430c-a38c-0169d905a384" />
+**Chinazam Dashboard** <img width="1280" height="446" alt="image" src="https://github.com/user-attachments/assets/ecf2611d-b512-430c-a38c-0169d905a384" />
 Chinazam sells significantly more Phones, indicating strong upselling tendencies. His strategy, along with those that yield similar results, can serve as a training template.
 
-![Derick Dashboard]<img width="1280" height="442" alt="image" src="https://github.com/user-attachments/assets/fef99590-51c1-476f-b769-c7af262b23de" />
+**Derick Dashboard** <img width="1280" height="442" alt="image" src="https://github.com/user-attachments/assets/fef99590-51c1-476f-b769-c7af262b23de" />
 
-![Feyisola Dashboard]<img width="1280" height="461" alt="image" src="https://github.com/user-attachments/assets/1825c78a-fa70-49e0-accd-5725d9973c8d" />
+**Feyisola Dashboard** <img width="1280" height="461" alt="image" src="https://github.com/user-attachments/assets/1825c78a-fa70-49e0-accd-5725d9973c8d" />
 
-![Kenny Dashboard]<img width="1280" height="442" alt="image" src="https://github.com/user-attachments/assets/bdf8b3d3-1f7e-4514-9eb1-542831a1a963" />
+**Kenny Dashboard** <img width="1280" height="442" alt="image" src="https://github.com/user-attachments/assets/bdf8b3d3-1f7e-4514-9eb1-542831a1a963" />
 Profit rose sharply for Kenny, suggesting strong customer engagement and an effective product mix. Kenny can be placed on higher-value accounts or asked to mentor junior reps.
 
-![Remota Dashboard]<img width="1280" height="449" alt="image" src="https://github.com/user-attachments/assets/6ee7e247-c4ab-4bc2-b1f1-ae674c5544f2" />
+**Remota Dashboard** <img width="1280" height="449" alt="image" src="https://github.com/user-attachments/assets/6ee7e247-c4ab-4bc2-b1f1-ae674c5544f2" />
 When filtering by Remota, Lagos loses dominance while Akwa Ibom rises, suggesting Remota has deeper penetration in secondary markets. This insight can inform territory planning.
 
-![Segun Dashboard]<img width="1280" height="451" alt="image" src="https://github.com/user-attachments/assets/83259ef2-9df5-4920-91d4-4f6153071dfa" />
+**Segun Dashboard** <img width="1280" height="451" alt="image" src="https://github.com/user-attachments/assets/83259ef2-9df5-4920-91d4-4f6153071dfa" />
 
-![Suleman Dashboard]<img width="1280" height="447" alt="image" src="https://github.com/user-attachments/assets/de278854-d1cf-4a7c-9582-4b7e445005f9" />
+**Suleman Dashboard** <img width="1280" height="447" alt="image" src="https://github.com/user-attachments/assets/de278854-d1cf-4a7c-9582-4b7e445005f9" />
 A decline in Suleman's performance suggests limited customer conversion or insufficient product match. Customer complaints can be reviewed, and inventory availability for this segment.
 
 
