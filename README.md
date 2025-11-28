@@ -139,28 +139,6 @@ A decline in Suleman's performance suggests limited customer conversion or insuf
 
 7. Use demand forecasting to reduce stockout risks in key regions.
 
-
-## 📁 Repository Structure  
-
-📦 10Alytics-Sales-Analysis
- ├── README.md
- ├── images/
- │    ├── raw-dataset.png
- │    ├── cleaned-dataset.png
- │    ├── pivot-tables.png
- │    ├── dashboard-main.png
- ├── filtered-views/
- │    ├── chinazam.png
- │    ├── derick.png
- │    ├── fisyola.png
- │    ├── kenny.png
- │    ├── remota.png
- │    ├── segun.png
- │    ├── suleman.png
- ├── excel-files/
- │    ├── sales-cleaned.xlsx
- │    ├── dashboard.xlsx
-
 ## Conclusion
 This case study demonstrates how Excel alone can deliver powerful business intelligence. With structured cleaning, pivot tables, and interactive dashboards, a Business Analyst can drive:
 + Improved data-driven decision-making
