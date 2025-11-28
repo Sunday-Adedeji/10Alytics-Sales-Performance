@@ -1,6 +1,6 @@
 <img width="1280" height="446" alt="image" src="https://github.com/user-attachments/assets/509c04a2-2e20-4d56-8285-6d45d8b032a4" /># 10Alytics-Sales-Performance
 
-## 🏥 Project Overview
+## Project Overview
 
 This project explores a replicated 10Alytics sales dataset, analysed using Microsoft Excel to derive actionable business insights.
 
@@ -160,17 +160,6 @@ A decline in Suleman's performance suggests limited customer conversion or insuf
  ├── excel-files/
  │    ├── sales-cleaned.xlsx
  │    ├── dashboard.xlsx
-
- ## 📁 Repository Structure  
-10Alytics-Sales-Analysis/
-│── 📂 data/ # Raw & cleaned Excel files
-│── 📂 pivot_tables/ # Screenshots of Pivot Tables
-│── 📂 dashboard/ # Excel Dashboard images
-│── 📂 visuals/ # Slicer views (per salesperson)
-│── README.md # Project documentation
-│── 10Alytics_Sales_Dashboard.xlsx # Final Excel dashboard
-
-
 
 ## Conclusion
 This case study demonstrates how Excel alone can deliver powerful business intelligence. With structured cleaning, pivot tables, and interactive dashboards, a Business Analyst can drive:
