@@ -29,17 +29,21 @@ Payment Option
 ## Tools Used
 | Tool | Purpose |
 |-------------|-------------------------|
-| Microsoft Excel | | Data cleaning, pivot tables, dashboarding |
-| Pivot Tables |	| Aggregations & multi-dimensional insights |
+| Microsoft Excel | | Data cleaning, pivot tables, dashboarding|
+| Pivot Tables |	| Aggregations & multi-dimensional insights|
 | Pivot Charts |	| Visual analytics |
 | Excel Slicers |	| Interactive filtering |
 | Excel Table Format |	| Structured data modelling |
 
 ## 🧹 Data Cleaning & Preparation
 ✔ Removed blank cells
+
 ✔ Standardised date fields
+
 ✔ Normalised text fields (e.g., states, product categories)
+
 ✔ Formatted data into an Excel Table
+
 ✔ Ensured numerical fields were correctly typed (Cost, Revenue, Quantity)
 
 📎 Part of the Raw and cleaned dataset screenshots are included below (I only took the picture of the initial display).
@@ -68,7 +72,7 @@ Payment Option
 * Salesperson Performance
 * Slicer Filters (Sales Person, Payment Option, Age Group)
 
-![Main Dashboard]<img width="1280" height="446" alt="image" src="https://github.com/user-attachments/assets/d67e60c7-07c6-4505-90a4-91ebd607cc7b" />
+## Main Dashboard <img width="1280" height="446" alt="image" src="https://github.com/user-attachments/assets/d67e60c7-07c6-4505-90a4-91ebd607cc7b" />
 
 
 ## 🔍 Key Insights
